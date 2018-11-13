@@ -8,4 +8,6 @@
 # You can override any settings in the application.yml on the 
 # billboard.yml file from this file.
 
-message: "This is the dev profile - Hello Spring Cloud Config!"
+authenticationProvider: "http://myserice.okta.com"
+serviceDiscoveryUri: "http://content.pivotal.io"
+dotNetConfSantiagoEdition: "2018, Best Edition Ever" 
