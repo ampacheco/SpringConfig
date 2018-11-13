@@ -1,6 +1,6 @@
 # seetings that will be returned for an application that 
-# identifies itself to the config server with name billboard
-# and requests the dev profile.
+# identifies itself to the config server with name *dotnetconf*
+# and requests the default profile.
 #
 # The app will get the settings in this file and in 
 # billboard.yml and in application.yml file on the config server.  
